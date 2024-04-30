@@ -1,16 +1,17 @@
 # today_news
 
-A new Flutter project.
+Features Implemented 
+email
+password
+a login button
+logout
+firebase authentication
+login
+redirection to home screen
+( all data has been fetched from the data base )
 
-## Getting Started
 
-This project is a starting point for a Flutter application.
-
-A few resources to get you started if this is your first Flutter project:
-
-- [Lab: Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Cookbook: Useful Flutter samples](https://docs.flutter.dev/cookbook)
-
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+Features Remaning
+User Information
+About App
+Share
